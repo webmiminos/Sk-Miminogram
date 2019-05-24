@@ -1,0 +1,35 @@
+.none {
+  display: none;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+}
+body {
+  background: rgba(0, 102, 255, 0.38);
+  font-family: sans-serif;
+}
+.but_auth {
+  background-color: white;
+  color: #f54c5a;
+  font-size: 16px;
+  width: 207px;
+  height: 45px;
+  border: 1px solid #f82370;
+  margin-right: 250px;
+  margin-top: 35px;
+  outline: none;
+  cursor: pointer;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bolder;
+  color: #ca03d1;
+}
+.card {
+  height: 150px;
+  color: green;
+  font-weight: bolder;
+}
